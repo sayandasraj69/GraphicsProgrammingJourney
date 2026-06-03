@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+
+# CMake
+build/
+
+# Visual Studio Build Output
+Debug/
+Release/
+
+# Object Files
+*.obj
+
+# Executables
+*.exe
+
+# Visual Studio Database
+*.VC.db
+
+# Visual Studio User Files
+*.user
+
+# CMake Cache
+CMakeCache.txt
+CMakeFiles/
